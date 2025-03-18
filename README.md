@@ -43,6 +43,8 @@ Este backend está diseñado específicamente para ser desplegado en **AWS Elast
 5️⃣ Acceder a tu Aplicación
    - Una vez que el entorno esté en ejecución, podrás acceder a tu aplicación a través de la URL proporcionada en la consola de Elastic Beanstalk.
 
+**NOTA:** Para la creación del entorno, se siguió el siguiente tutorial: https://www.youtube.com/watch?v=FBYe6SSQ1Uc&t=2096s
+
 ---
 
 ## 🚀 **Instalación y Configuración Local (Opcional)**  
