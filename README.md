@@ -1,8 +1,8 @@
 ## 🛠 Lingualy Backend - API REST para Aprendizaje de Idiomas  
 
-Este repositorio contiene el **código backend** de la aplicación **Lingualy**, una plataforma diseñada para ayudar a los usuarios a aprender y practicar idiomas. Este backend está diseñado para ser desplegado en **AWS Elastic Beanstalk** y ya incluye las configuraciones necesarias para su implementación. Aunque es posible ejecutarlo localmente, el propósito principal es su uso en un entorno en la nube.  
+Este repositorio contiene el **código backend** de la aplicación **Lingualy**, una plataforma diseñada para ayudar a los usuarios a mejorar su redacción de correos electrónicos en inglés en espacios profesionales. Este backend está diseñado para ser desplegado en **AWS Elastic Beanstalk** y ya incluye las configuraciones necesarias para su implementación. Aunque es posible ejecutarlo localmente, el propósito principal es su uso en un entorno en la nube.  
 
-> 📢 **Nota**: Este es el backend de **Lingualy**. El frontend de la aplicación se encuentra en otro repositorio.
+> 📢 **Nota**: Este es el backend de **Lingualy**. El frontend de la aplicación se encuentra en el repositorio https://github.com/SheyleeEnriquez/LingualyApp.
 
 ---
 
